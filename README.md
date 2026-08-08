@@ -110,11 +110,11 @@ You also need **Persian font** (Vazirmatn) and asset files (images, sounds) – 
 hangman-persian/
 ├── hangman.py              # Main game script
 ├── README.md               # This file
-├── assets/                 # (not included in repo – see above)
+├── assets/
 │   ├── images/
 │   ├── sounds/
 │   └── Vazirmatn-Regular.ttf
-├── requirements.txt        # (optional) list of dependencies
+├── requirements.txt        
 └── .gitignore
 ```
 
