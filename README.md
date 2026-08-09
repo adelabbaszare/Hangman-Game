@@ -39,8 +39,8 @@ You also need **Persian font** (Vazirmatn) and asset files (images, sounds) – 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/adelabbaszare/hangman-persian.git
-   cd hangman-persian
+   git clone https://github.com/adelabbaszare/Hangman-Game.git
+   cd Hangman-Game
    ```
 
 2. **Create and activate a virtual environment** (recommended)
