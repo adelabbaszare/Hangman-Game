@@ -39,7 +39,7 @@ You also need **Persian font** (Vazirmatn) and asset files (images, sounds) – 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hangman-persian.git
+   git clone https://github.com/adelabbaszare/hangman-persian.git
    cd hangman-persian
    ```
 
